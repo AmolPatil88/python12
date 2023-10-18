@@ -24,5 +24,4 @@ driver.find_element(By.XPATH,"/html/body/div[3]/div/span").click()
 time.sleep(5)
 driver.find_element(By.XPATH,"/html/body/div[3]/div/span").click()
 driver.find_element(By.XPATH,"/html/body/div[3]/div/span").click()
-driver.find_element(By.XPATH,"/html/body/div[3]/div/span").click()
-driver.find_element(By.XPATH,"/html/body/div[3]/div/span").click()
+
